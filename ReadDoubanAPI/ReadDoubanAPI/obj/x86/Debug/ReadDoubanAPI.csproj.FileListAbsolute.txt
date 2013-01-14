@@ -1,0 +1,29 @@
+C:\Documents and Settings\Administrator\桌面\课程设计\ReadDoubanAPI\ReadDoubanAPI\bin\Debug\ReadDoubanAPI.exe
+C:\Documents and Settings\Administrator\桌面\课程设计\ReadDoubanAPI\ReadDoubanAPI\bin\Debug\ReadDoubanAPI.pdb
+C:\Documents and Settings\Administrator\桌面\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ReadDoubanAPI.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ReadDoubanAPI.exe
+C:\Documents and Settings\Administrator\桌面\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ReadDoubanAPI.pdb
+C:\Documents and Settings\Administrator\桌面\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ReadDoubanAPI.ReadDoubanAPI.resources
+C:\Documents and Settings\Administrator\桌面\课程设计\ReadDoubanAPI\ReadDoubanAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Master\Desktop\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ReadDoubanAPI.exe
+C:\Users\Master\Desktop\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ReadDoubanAPI.pdb
+C:\Users\Master\Desktop\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Master\Desktop\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ReadDoubanAPI.ReadDoubanAPI.resources
+C:\Users\Master\Desktop\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ReadDoubanAPI.Properties.Resources.resources
+C:\Users\Master\Desktop\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Master\Desktop\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Master\Desktop\课程设计\ReadDoubanAPI\ReadDoubanAPI\bin\Debug\ReadDoubanAPI.exe
+C:\Users\Master\Desktop\课程设计\ReadDoubanAPI\ReadDoubanAPI\bin\Debug\ReadDoubanAPI.pdb
+C:\Users\Master\Desktop\课程设计\ReadDoubanAPI\ReadDoubanAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Master\Desktop\文档\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ReadDoubanAPI.exe
+C:\Users\Master\Desktop\文档\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ReadDoubanAPI.pdb
+C:\Users\Master\Desktop\文档\课程设计\ReadDoubanAPI\ReadDoubanAPI\bin\Debug\ReadDoubanAPI.exe
+C:\Users\Master\Desktop\文档\课程设计\ReadDoubanAPI\ReadDoubanAPI\bin\Debug\ReadDoubanAPI.pdb
+C:\Users\Master\Desktop\文档\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Master\Desktop\文档\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ReadDoubanAPI.ReadDoubanAPI.resources
+C:\Users\Master\Desktop\文档\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\ReadDoubanAPI.Properties.Resources.resources
+C:\Users\Master\Desktop\文档\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Master\Desktop\文档\课程设计\ReadDoubanAPI\ReadDoubanAPI\obj\x86\Debug\GenerateResource.write.1.tlog
